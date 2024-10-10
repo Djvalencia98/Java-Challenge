@@ -1,13 +1,8 @@
 
 # Conversor de monedas
-
-Esta aplicación permite la conversión de monedas del mundo como base el lenguaje de programación Java en su versión 11, para la interfaz se usó JavaFx 17. Se usó MySQL como base de datos para crear tablas relacionadas y vistas.
-#challengeoneconversorlatam4
+Este aplicativo permite la conversión de monedas del mundo, usa como base el lenguaje de programación Java, para la interfaz se usó JavaFx 17 y MySQL como base de datos para crear tablas relacionadas y vistas.
 
 
-## Tech Stack
-
-Java, Javafx, MySQL
 
 
 
