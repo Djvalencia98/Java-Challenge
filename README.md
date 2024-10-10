@@ -2,9 +2,9 @@
 
 ## Descripcion
 
-Este proyecto es un Challenge de Alura Latam y Oracle Next education. El objetivo a lograr es contruir un conversor de monedas, los diversos tipos de cambio actuales desde una API (EschangeRate) y permite convertir cantidades entre diferentes monedas.
+Practicando con Java: Challenge Conversor de Monedas de Alura Latam y Oracle Next education. El objetivo del challenge es contruir un conversor de monedas, los diversos tipos de cambio actuales desde la API ExchangeRate y permitir convertir cantidades entre diferentes monedas.
 
-El conversor de monedas proporciona un menú interactivo donde el usuario puede seleccionar opciones para convertir entre diferentes monedas. Las tasas de cambio se obtienen en tiempo real a través de una solicitud HTTP a la API de ExchangeRate. El programa permite convertir entre las siguientes monedas:
+El conversor de monedas proporciona un menú donde el usuario puede seleccionar opciones para convertir entre diferentes monedas. Las tasas de cambio se obtienen en tiempo real a través de una solicitud HTTP a la API de ExchangeRate. El programa permite convertir entre las siguientes monedas:
 
 - Dólar (USD) a Colon Costarricense (CRC)
 - Colon Costarricense (CRC) a Dólar (USD)
@@ -13,21 +13,21 @@ El conversor de monedas proporciona un menú interactivo donde el usuario puede 
 - Dólar (USD) a Peso Mexicano (MXN)
 - Peso Mexicano (MXN) a Dólar (USD)
 
-### Estructura del Proyecto
-El proyecto tiene tres clases:
+## Estructuración del Proyecto
+El proyecto tiene 3 clases:
 
-1. `Conexion`
-2. `Conversor`
-4. `Principal`
+1. "Conexion"
+2. "Conversor"
+4. "Principal"
 
 ### Recursos Utilizados
 - Java 17
-- IntelliJ IDEA: IDE.
-- ExchangeRate: API para obtener tipo de cambio.
-- Library Gson.
+- IntelliJ IDEA: IDE
+- API ExchangeRate
+- Json Library
 
 
 
 ### AUTOR
 
-Gabriel Antonio Flores Solis
+Daimer Valencia Nieto
